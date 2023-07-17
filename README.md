@@ -21,7 +21,7 @@ I am an aspiring data analyst, constantly on a quest to turn data into actionabl
 
 I am always on the lookout for new challenges and opportunities to learn and grow in the field of data analysis.
 
-  Currently in my 3rd year of college, pursuing undergrad in BSC with specialization in Information Technology. <img src="https://media.giphy.com/media/eNAKa7nXenniRdDIu6/giphy.gif" width ='20'  >
+<img src="https://media.giphy.com/media/eNAKa7nXenniRdDIu6/giphy.gif" width ='20'  >
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rammuduli/)](https://www.linkedin.com/in/rammuduli/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/notramm)](https://twitter.com/notramm)
