@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 # Welcome to my Github profile
 
-I am an aspiring data analyst, constantly on a quest to turn data into actionable insights. My expertise lies in data analysis, python. My ultimate goal is to use my data analysis skills to solve real-world problems and make a positive impact on the world.
-
-I am always on the lookout for new challenges and opportunities to learn and grow in the field of data analysis.
+- 🔭 I’m currently learning ...HTML, CSS, JavaScript, jQuery, Tailwind.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rammuduli/)](https://www.linkedin.com/in/rammuduli/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/notramm)](https://twitter.com/notramm)
@@ -65,7 +63,8 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notramm)](https://github.com/notramm/github-readme-stats)
+<!--
 ## **📊GitHub Stats :**
 
 
@@ -86,3 +85,4 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 <br><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notramm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
