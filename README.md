@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Welcome to my Github profile
 
-- 🔭 I’m currently learning ...HTML, CSS, JavaScript, jQuery, Tailwind.
+- 🔭 I’m currently learning ...AWS, HTML, CSS, JavaScript, jQuery, Tailwind.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rammuduli/)](https://www.linkedin.com/in/rammuduli/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/notramm)](https://twitter.com/notramm)
