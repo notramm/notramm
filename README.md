@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-# 💫 About Me:
-🌱 I’m currently learning MERN while getting into AI<br>
+🌱 I’m currently experimenting with MERN while getting into AI.<br>
 
 
 <h2 align="center">🌐 Socials</h2>
