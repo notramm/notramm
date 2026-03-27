@@ -80,11 +80,12 @@ Here are some ideas to get you started:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+<!--<h2 align="center">🔝 Top Contributed Repo</h2>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=notramm&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=notramm&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </div>
+  -->
 
 ---
 
