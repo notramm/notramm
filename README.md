@@ -61,14 +61,18 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=notramm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=notramm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notramm&theme=dracula&hide_border=false&border_radius=5&order=3" height="300" alt="Top Languages Stats"/>
 </div>
+
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
+
+
 
 <!--<h2 align="center">🔝 Top Contributed Repo</h2>
 
