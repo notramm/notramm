@@ -1,7 +1,6 @@
 <!-- Title -->
 <h2 align="center">I am Ram Muduli.</h2> 
 
-<!-- About me -->
 <h1> 📌 About me: </h1>
 
 💻 Building full-stack web applications using modern technologies like React, Node.js, and MongoDB.</br>
