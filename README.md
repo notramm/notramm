@@ -1,6 +1,7 @@
 <!-- Title -->
-<h2 align="center">I am Ram Muduli.</h2> 
+<h2>I am Ram Muduli.</h2> 
 
+<!-- About me -->
 <h1> 📌 About me: </h1>
 
 💻 Building full-stack web applications using modern technologies like React, Node.js, and MongoDB.</br>
@@ -8,6 +9,8 @@
 ☁️ Exploring cloud technologies and scalable system design.</br>
 🤖 Learning and applying AI/ML concepts to enhance real-world applications.</br>
 
+<img src="https://github.com/user-attachments/assets/58a4f4a2-0b6b-43a3-be64-99fbd3405e67" width="900" alt="Preview"/>
+  
 <!-- Social Media -->
 # 📩 Socials & Contacts:
 <a href="https://linkedin.com/in/rammuduli"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
