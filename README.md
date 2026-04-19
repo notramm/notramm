@@ -9,7 +9,7 @@
 ☁️ Exploring cloud technologies and scalable system design.</br>
 🤖 Learning and applying AI/ML concepts to enhance real-world applications.</br>
 
-<img src="https://github.com/user-attachments/assets/58a4f4a2-0b6b-43a3-be64-99fbd3405e67" width="900" alt="Preview"/>
+<!--<img src="https://github.com/user-attachments/assets/58a4f4a2-0b6b-43a3-be64-99fbd3405e67" width="900" alt="Preview"/>-->
   
 <!-- Social Media -->
 # 📩 Socials & Contacts:
