@@ -63,8 +63,37 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=notramm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notramm&theme=dracula&hide_border=false&border_radius=5&order=3" height="300" alt="Top Languages Stats"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=notramm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  /> -->
+    
+<a href="https://github.com/notramm#gh-dark-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+        <!-- GitHub Stats -->
+        <img
+          src="https://github-readme-stats-steel-omega.vercel.app/api?username=notramm&show_icons=true&include_all_commits=true&icon_color=ff79c6&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&hide_border=true&number_format=long&rank_icon=percentile&show=prs_merged,prs_merged_percentage&disable_animations=true"
+          alt="My Stats"
+          height="370"
+        />
+        <br>
+        <!-- GitHub Streak -->
+        <img
+          src="https://streak-stats.demolab.com?user=notramm&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3"
+          alt="My Streaks"
+          height="300"
+        />
+      </td>
+      <td style="border: 0;">
+        <!-- Top Languages -->
+        <img
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=notramm&layout=pie&icon_color=ff79c6&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=true"
+          alt="My Language Stats"
+          width="280"
+        />
+      </td>
+    </tr>
+  </table>
+</a>
 </div>
 
 
@@ -73,17 +102,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
-
-
-
-<!--<h2 align="center">🔝 Top Contributed Repo</h2>
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=notramm&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</div>
-  -->
-
----
 
 <div align="center">
 <br clear="both">
